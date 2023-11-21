@@ -10,12 +10,19 @@ namespace Gitdemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(add(3,3));
+           // Console.WriteLine(add(3,3));
+            Console.WriteLine(sum(3,3));
         }
-        public static int add(int a, int b)
+        //public static int add(int a, int b)
+        //{
+        //    int c;
+        //    c = a + b;
+        //    return c;
+        //}
+        public static int sum(int a, int b)
         {
             int c;
-            c = a + b;
+            c = a +b;
             return c;
         }
     
