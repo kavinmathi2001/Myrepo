@@ -1,0 +1,6 @@
+E:\oops\program\Inheridance\Gitdemo\Gitdemo\bin\Debug\Gitdemo.exe.config
+E:\oops\program\Inheridance\Gitdemo\Gitdemo\bin\Debug\Gitdemo.exe
+E:\oops\program\Inheridance\Gitdemo\Gitdemo\bin\Debug\Gitdemo.pdb
+E:\oops\program\Inheridance\Gitdemo\Gitdemo\obj\Debug\Gitdemo.csprojResolveAssemblyReference.cache
+E:\oops\program\Inheridance\Gitdemo\Gitdemo\obj\Debug\Gitdemo.exe
+E:\oops\program\Inheridance\Gitdemo\Gitdemo\obj\Debug\Gitdemo.pdb
